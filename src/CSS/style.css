@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.title {
+    text-align: center;
+}
+.main {
+    text-align: center;
+}
+.subwrite {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    border: 10px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image {
+    height: 400px;
+    width: 400px;
+}
+h3 {
+    font-size: 25px;
+}
+.default {
+    background-color:deepskyblue;
+    color: white;
+    border-radius: 30px;
+    border: 10px solid deepskyblue;
+}
+button {
+    cursor: pointer;
+}
